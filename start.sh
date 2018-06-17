@@ -48,8 +48,8 @@ if [ "$PHP_BINARY" == "" ]; then
 fi
 
 if [ "$DYNO_FILE" == "" ]; then
-	if [ -f ./Dyno*.phar ]; then
-		DYNO_FILE="./Dyno*.phar"
+	if [ -f ./Dyno.phar ]; then
+		DYNO_FILE="./Dyno.phar"
 	elif [ -f ./src/dyno/Boot.php ]; then
 		DYNO_FILE="./src/dyno/Boot.php"
 	else
