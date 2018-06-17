@@ -54,13 +54,6 @@ Download latest .phar : PHP Binary : and start.sh/start.cmd/start.ps1
 * __connection-database__= SQL Database
 * __connection-socket__= SQL Socket
 
-## Licensing information 
-
-`This program is free: you can redistribute it and/or modify
-it under the terms of the GNU Lesser General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.`
-
 ## Current version
 * __PHP__: > 7.2 
 * __pthread__ : > 3.1.5
@@ -73,3 +66,10 @@ __Dyno__:
 
 ## Extensions needed
 * __curl__ , __yaml__, __zlib__ , __pthreads__, __sockets__
+
+## Licensing information 
+
+`This program is free: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.`
