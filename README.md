@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="icon.png" width="150px" height="150px">
+</p>
+
 ## Description
 Dyno was not created for the purpose of replacing Mysql for applications, it was created to facilitate applications sent data quickly without having used asynchronous for MySQL
 
