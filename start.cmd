@@ -9,8 +9,8 @@ if exist bin\php\php.exe (
 	set PHP_BINARY=php
 )
 
-if exist Dyno*.phar (
-	set DYNO_FILE=Dyno*.phar
+if exist Dyno.phar (
+	set DYNO_FILE=Dyno.phar
 ) else (
 	if exist src\dyno\Boot.php (
 	    set DYNO_FILE=src\dyno\Boot.php
