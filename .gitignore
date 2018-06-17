@@ -1,0 +1,8 @@
+mysql.properties
+server.properties
+plugins/*
+bin*/*
+bases/*
+*.log
+*.phar
+*.txt
