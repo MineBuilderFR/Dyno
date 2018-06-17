@@ -1,19 +1,24 @@
 ## Description
 Dyno was not created for the purpose of replacing Mysql for applications, it was created to facilitate applications sent data quickly without having used asynchronous for MySQL
+
 ## How it work ?
+
 __Dyno uses a Packet system__; <br/>it sends and receives Packets by Sockets to be able to sort requests as Base/Table (InputPacket/OutputPacket)
+
 ## Can I contribute?
 Yes you can! Contributions are welcomed!
 
-## Where can I get the latest .phar?
+## Download
 
-* Latest phar version here: [Latest .phar](https://github.com/MineBuilderFR/Dyno/releases)
+* Latest phar version here: [Github Release](https://github.com/MineBuilderFR/Dyno/releases)
+* Download PHP binary for linux/windows here: [Download in SourceForge](https://sourceforge.net/projects/dyno-fast/files/PHP%20Binary%20for%20Dyno/)
 
 ## Installation
 
-Download latest .phar , PHP Binary , and start.sh/start.cmd/start.ps1
+Download latest .phar : PHP Binary : and start.sh/start.cmd/start.ps1
 
 ### Video 
+
 > No installation video for the moment
 
 ## Applications
@@ -37,6 +42,7 @@ Download latest .phar , PHP Binary , and start.sh/start.cmd/start.ps1
 > Mysql is only used for DynToSQL <br/>
 > DynToSQL Send Dyno Bases/Tables to Mysql <br/>
 > Configuration in mysql.properties <br/>
+
 * __mysql-enabled__= Enabled MySQL
 * __auto-send-dyn-to-sql__= Auto send DynToSQL
 * __time-auto-send-in-second__= Time in seconds to DynToSQL
