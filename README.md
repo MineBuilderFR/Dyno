@@ -43,9 +43,9 @@ Download latest .phar : PHP Binary : and start.sh/start.cmd/start.ps1
 * __log-packet-received__= Log the Packets received by Dyno
 
 ### MySQL
-> __You don't need to have Mysql to use Dyno!__ <br/>
-> Mysql is only used for DynToSQL <br/>
-> DynToSQL Send Dyno Bases/Tables to Mysql <br/>
+> __You don't need to have MySQL to use Dyno!__ <br/>
+> MySQL is only used for DynToSQL <br/>
+> DynToSQL Send Dyno Bases/Tables to MySQL <br/>
 > Configuration in mysql.properties <br/>
 
 * __mysql-enabled__= Enabled MySQL
