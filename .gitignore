@@ -6,3 +6,4 @@ bases/*
 *.log
 *.phar
 *.txt
+.idea
