@@ -1,9 +1,9 @@
 [submodule "src/spl"]
 	path = src/spl
-	url = https://github.com/MineBuilderFR/SPL-Dyno
+	url = https://github.com/YassLV/SPL-Dyno
 [submodule "src/dynoLibPacket"]
 	path = src/dynoLibPacket
-	url = https://github.com/MineBuilderFR/DynoLibPacket
+	url = https://github.com/YassLV/DynoLibPacket
 [submodule "src/dyno/lang/locale"]
 	path = src/dyno/lang/locale
-	url = https://github.com/MineBuilderFR/Lang-Dyno
+	url = https://github.com/YassLV/Lang-Dyno

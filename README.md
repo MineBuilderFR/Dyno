@@ -15,7 +15,7 @@ Yes you can! Contributions are welcomed!
 
 ## Download
 
-* Latest phar version here: [Github Release](https://github.com/MineBuilderFR/Dyno/releases)
+* Latest phar version here: [Github Release](https://github.com/YassLV/Dyno/releases)
 * Download PHP binary for linux/windows here: [Download in SourceForge](https://sourceforge.net/projects/dyno-fast/files/PHP%20Binary%20for%20Dyno/)
 
 ## Installation
@@ -28,7 +28,7 @@ Download latest .phar : PHP Binary : and start.sh/start.cmd/start.ps1
 
 ## Applications
 
-* __DynoPM__ (PocketMine) (PHP) : [Implementing Dyno for PocketMine-MP](https://github.com/MineBuilderFR/DynoPM)
+* __DynoPM__ (PocketMine) (PHP) : [Implementing Dyno for PocketMine-MP](https://github.com/YassLV/DynoPM)
 * __DynoNuke__ (Nukkit) (Java): Soon
 
 ## Properties
